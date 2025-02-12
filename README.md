@@ -2,6 +2,9 @@
 
 TermiExplorer est un programme simple permettant d'explorer et de télécharger des fichiers à partir d'un répertoire local via un serveur web. TermiExplorer utilise **Express.js** pour gérer le serveur et permet d'afficher les fichiers et dossiers d'un répertoire, ainsi que de télécharger des fichiers sur demande.
 
+![image](https://github.com/user-attachments/assets/76405be4-5bae-42b6-8098-f899f9264890)
+
+
 ## Prérequis
 
 Avant de commencer, vous devez avoir installé **Node.js** sur votre machine. Vous pouvez le télécharger et l'installer à partir du [site officiel de Node.js](https://nodejs.org/).
