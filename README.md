@@ -73,5 +73,4 @@ Si vous rencontrez un problème, voici quelques points à vérifier :
 ## Licence
 
 Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
-```
 
