@@ -41,7 +41,7 @@ node main.js
 
 Cela démarrera le serveur Express sur le port **1010**.
 
-2. **Accédez à l'application** via votre navigateur web en allant à l'adresse suivante :
+2. **Accédez au site** via votre navigateur web en allant à l'adresse suivante :
 
 ```
 http://localhost:1010
